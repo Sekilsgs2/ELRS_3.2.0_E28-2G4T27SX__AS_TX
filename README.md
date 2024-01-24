@@ -1,6 +1,6 @@
 This is ELRS 3.2.0 for Ebyte E28-2G4T27SX as TX module - connecting to opentx radio as internal module with full duplex only!
 
-This module have HT32F52342 MCU 48Mhz Cortex M0+.
+This module have HT32F52342 MCU 48Mhz Cortex M0+ and SX1280 lora.
 
 GPIO's - 
 PB2 - TX_EN
