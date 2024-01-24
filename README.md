@@ -1,3 +1,5 @@
+This is ELRS 3.2.0 for Ebyte E28-2G4T27SX as TX module - connecting to opentx radio as internal module with full duplex only!
+
 Before - using python script to get your password for ELRS - 
 
 change this line to your - 
